@@ -1,5 +1,5 @@
    # IT-Library
-#its all about information technology and information security.
+ its all about information technology and information security.
 
 ## Web Design:
 
@@ -9,7 +9,7 @@
 - Lessons: 1/36.
 - Link: [YouTube](https://www.youtube.com/watch?v=6gjg5n9kyBU&list=PLDoPjvoNmBAyXCAQMLhDRZsLi_HurqTBZ)
  
-   ## CSS3:
+  ## CSS3:
 - Publisher: [Elzero Web School](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ).
 - Language: اللغة العربية.
 - Lessons: 1/56.
