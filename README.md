@@ -3,7 +3,7 @@
 
 ## Web Design:
 
-   ## Html5:
+  ## Html5:
 - Publisher: [Elzero Web School](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ).
 - Language: اللغة العربية.
 - Lessons: 1/36.
@@ -21,7 +21,7 @@
 - Lessons: 1/65.
 - Link: [YouTube](https://www.youtube.com/watch?v=eKuNnpWhm7c&list=PLDoPjvoNmBAw6p0z0Ek0OjPzeXoqlFlCh)
  
- ## Bootstrap:
+  ## Bootstrap:
 - Publisher: [TheNewBaghdad ](https://www.youtube.com/channel/UCgntwWFdMDPq0eNhaQ0LHIQ)
 - Language: اللغة العربية.
 - Lessons: 1/18.
@@ -33,7 +33,7 @@
 - Lessons: 1/46.
 - Link: [YouTube](https://www.youtube.com/watch?v=cqszz_OfAFQ&list=PLC1322B5A0180C946)
  
- ## Web Design Tutorials:
+  ## Web Design Tutorials:
 - Publisher: [Elzero Web School](https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ).
 - Language: اللغة العربية.
 - Lessons: 1/51.
@@ -41,31 +41,31 @@
  
  ## Web Development:
  
- ## C#.NET:
+  ## C#.NET:
 - Publisher: [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh/featured)
 - Language: English.
 - Lessons:  1/13.
 - Link: [Youtube](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef).
 
- ## ASP.NET MVC 5:
+  ## ASP.NET MVC 5:
 - Publisher: [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh/featured)
 - Language: English.
 - Lessons:  1/1.
 - Link: [Youtube](https://www.youtube.com/watch?v=E7Voso411Vs&list=PLTjRvDozrdlwG-Gl0I1vCA7NUBS0mif8F).
 
- ## AngularJS:
+  ## AngularJS:
 - Publisher: [Esmat Nawahda](https://www.youtube.com/channel/UCx-P-iWGNb2JvH9N7K3ST7Q).
 - Language: اللغة العربية.
 - Lessons: 1/21.
 - Link: [YouTube](https://www.youtube.com/watch?v=40VaGsfDSYE&list=PLyFOJInvFZQmkIHB7iB9FhCsRp5cmM6hF)
 
- ## Node.js:
+  ## Node.js:
 - Publisher: [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh/featured)
 - Language: English.
 - Lessons:  1/15.
 - Link: [Youtube](https://www.youtube.com/watch?v=uVwtVBpw7RQ&list=PLTjRvDozrdlydy3uUBWZlLUTNpJSGGCEm).
 
- ## Node.js Tutorial for Beginners:
+  ## Node.js Tutorial for Beginners:
 - Publisher: [Bucky Roberts - thenewboston](https://www.youtube.com/user/thenewboston)
 - Language: English.
 - Lessons:  1/22.
@@ -105,13 +105,13 @@
  
 ## Information Security:
 
- ## Bash Scripting:
+  ## Bash Scripting:
 - Publisher: [iSecur1ty](https://www.youtube.com/user/iSecur1tycommunity)
 - Language: اللغة العربية.
 - Lessons: 1/20.
 - Link: [YouTube](https://www.youtube.com/watch?v=aetH-d_bpJs&list=PLqi7yZF-SFcYzox4VgUSkaksGAAIhya7B)
 
- ## CEH v9 - Certified Ethical Hacker:
+  ## CEH v9 - Certified Ethical Hacker:
 - Publisher: [The New Edge](https://www.youtube.com/channel/UCDsBTXSlQVU5L2FzFLpPnZw)
 - Language: English.
 - Lessons: 1/102.
