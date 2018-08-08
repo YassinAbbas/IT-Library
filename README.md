@@ -102,22 +102,21 @@ its all about information technology and information security.
 - Lessons:  1/17.
 - Link: [Youtube](https://www.youtube.com/watch?v=4AfYpZDR6PI&list=PLbp7jfOGpdRjLO9sPRJRSKm8T2TTi2hwa)
  
- ــــــــــــــــــــــــــــــــــــــــــــــــ
 ## Information Security:
 
-  1. Bash Scripting:
+ - 1. Bash Scripting:
 - Publisher: [iSecur1ty](https://www.youtube.com/user/iSecur1tycommunity)
 - Language: اللغة العربية.
 - Lessons: 1/20.
 - Link: [YouTube](https://www.youtube.com/watch?v=aetH-d_bpJs&list=PLqi7yZF-SFcYzox4VgUSkaksGAAIhya7B)
 
-  2. CEH v9 - Certified Ethical Hacker:
+ - 2. CEH v9 - Certified Ethical Hacker:
 - Publisher: [The New Edge](https://www.youtube.com/channel/UCDsBTXSlQVU5L2FzFLpPnZw)
 - Language: English.
 - Lessons: 1/102.
 - Link: [YouTube](https://www.youtube.com/watch?v=aetH-d_bpJs&list=PLqi7yZF-SFcYzox4VgUSkaksGAAIhya7B)
 
-  3. Metasploit:
+ - 3. Metasploit:
 - Publisher: [The New Edge](https://www.youtube.com/channel/UCDsBTXSlQVU5L2FzFLpPnZw)
 - Language: English.
 - Lessons: 1/55.
